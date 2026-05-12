@@ -517,4 +517,6 @@ In production:
 GitHub:
 https://github.com/IrfanPasha05
 
+Dev:
+https://dev.to/irfanpasha/built-a-modern-cloud-file-upload-portal-using-aws-s3-netlify-github-cicd-1ld6
 ---
